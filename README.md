@@ -56,12 +56,6 @@ python detect.py
 3. Train YOLOv8 with the dataset.
 4. Deploy the trained model for real-time coin detection.
 
-## 🔥 Demo
-🚀 **Coming soon!**
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
-
 ## 📜 License
 This project is licensed under the MIT License.
 
